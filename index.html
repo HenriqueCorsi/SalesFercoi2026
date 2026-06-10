@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fercoi 2026 — Dashboard de Pedidos</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="app">
+
+  <!-- Sidebar -->
+  <aside class="sidebar">
+    <div class="brand">
+      <span class="brand-mark">F</span>
+      <span class="brand-name">Fercoi 2026</span>
+    </div>
+
+    <nav class="nav">
+      <button class="nav-item active" data-view="dashboard">
+        <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3" width="7" height="9" rx="1.5"/><rect x="14" y="3" width="7" height="5" rx="1.5"/><rect x="14" y="12" width="7" height="9" rx="1.5"/><rect x="3" y="16" width="7" height="5" rx="1.5"/></svg>
+        Dashboard
+      </button>
+      <button class="nav-item" data-view="pedidos">
+        <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M4 5h16M4 12h16M4 19h10"/></svg>
+        Pedidos
+      </button>
+      <button class="nav-item" data-view="analise">
+        <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M3 3v18h18"/><path d="M7 15l4-5 3 3 5-7"/></svg>
+        Análise
+      </button>
+    </nav>
+
+    <div class="sidebar-footer">
+      <button id="themeToggle" class="icon-btn" title="Alternar tema">
+        <svg class="icon icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/></svg>
+        <svg class="icon icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg>
+        <span class="theme-label">Tema</span>
+      </button>
+      <button id="settingsBtn" class="icon-btn" title="Configurações de sincronização">
+        <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 00.33 1.82l.06.06a2 2 0 01-2.83 2.83l-.06-.06a1.65 1.65 0 00-1.82-.33 1.65 1.65 0 00-1 1.51V21a2 2 0 01-4 0v-.09A1.65 1.65 0 009 19.4a1.65 1.65 0 00-1.82.33l-.06.06a2 2 0 01-2.83-2.83l.06-.06A1.65 1.65 0 005 14.96 1.65 1.65 0 003.51 14H3.4a2 2 0 010-4h.09A1.65 1.65 0 005 9.04 1.65 1.65 0 004.18 7.2l-.06-.06A2 2 0 117 4.31l.06.06A1.65 1.65 0 008.84 4.6 1.65 1.65 0 0010 3.09V3a2 2 0 014 0v.09c0 .67.39 1.27 1 1.51a1.65 1.65 0 001.82-.33l.06-.06a2 2 0 112.83 2.83l-.06.06A1.65 1.65 0 0019 9.04c.61.24 1 .84 1 1.51v.09a2 2 0 010 4h-.09c-.67 0-1.27.39-1.51 1z"/></svg>
+        <span class="theme-label">Sincronização</span>
+      </button>
+    </div>
+  </aside>
+
+  <!-- Main content -->
+  <main class="main">
+    <header class="topbar">
+      <h1 id="viewTitle">Dashboard</h1>
+      <div class="sync-status" id="syncStatus">
+        <span class="dot" id="syncDot"></span>
+        <span id="syncText">Carregando dados…</span>
+      </div>
+    </header>
+
+    <!-- DASHBOARD VIEW -->
+    <section id="view-dashboard" class="view active">
+
+      <div class="cards">
+        <div class="card">
+          <span class="card-label">Faturamento (ano)</span>
+          <span class="card-value" id="kpiFaturamentoAno">—</span>
+        </div>
+        <div class="card">
+          <span class="card-label">Comissão (ano)</span>
+          <span class="card-value" id="kpiComissaoAno">—</span>
+        </div>
+        <div class="card">
+          <span class="card-label">Pedidos (ano)</span>
+          <span class="card-value" id="kpiPedidosAno">—</span>
+        </div>
+        <div class="card">
+          <span class="card-label">Ticket médio</span>
+          <span class="card-value" id="kpiTicketMedio">—</span>
+        </div>
+      </div>
+
+      <div class="grid">
+        <div class="panel panel-wide">
+          <div class="panel-header">
+            <h2>Faturamento &amp; Comissão por mês</h2>
+            <div class="panel-controls">
+              <select id="yearSelect"></select>
+            </div>
+          </div>
+          <div class="chart-wrap">
+            <canvas id="monthlyChart"></canvas>
+          </div>
+        </div>
+
+        <div class="panel">
+          <div class="panel-header">
+            <h2>Por empresa no mês</h2>
+            <div class="panel-controls">
+              <select id="monthSelect"></select>
+            </div>
+          </div>
+          <div class="metric-toggle" id="metricToggle">
+            <button class="toggle-btn active" data-metric="valor">Faturamento</button>
+            <button class="toggle-btn" data-metric="comissaoValor">Comissão</button>
+          </div>
+          <div class="chart-wrap">
+            <canvas id="companyChart"></canvas>
+          </div>
+          <div id="companyLegend" class="company-legend"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- PEDIDOS VIEW -->
+    <section id="view-pedidos" class="view">
+      <div class="toolbar">
+        <button id="btnNovoPedido" class="btn btn-primary">+ Novo pedido</button>
+        <input type="text" id="searchInput" class="input" placeholder="Buscar por empresa, pedido ou NF…">
+        <select id="filterMonth" class="input"></select>
+        <select id="filterEmpresa" class="input"></select>
+        <button id="btnSalvarGithub" class="btn btn-outline">Salvar no GitHub</button>
+      </div>
+
+      <div class="table-wrap">
+        <table class="table" id="pedidosTable">
+          <thead>
+            <tr>
+              <th data-sort="data">Data de Faturamento</th>
+              <th data-sort="pedido">Pedido</th>
+              <th data-sort="valor">Valor</th>
+              <th data-sort="comissaoPct">Comissão (%)</th>
+              <th data-sort="nf">Nf</th>
+              <th data-sort="empresa">Empresa</th>
+              <th data-sort="peso">Peso (Kg)</th>
+              <th data-sort="comissaoValor">Comissão (R$)</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody id="pedidosTbody"></tbody>
+        </table>
+      </div>
+      <div class="table-footer">
+        <span id="tableSummary"></span>
+      </div>
+    </section>
+
+    <!-- ANÁLISE VIEW -->
+    <section id="view-analise" class="view">
+      <div class="toolbar">
+        <select id="anEmpresa" class="input"></select>
+        <select id="anAno" class="input"></select>
+      </div>
+
+      <div class="panel">
+        <div class="panel-header">
+          <h2>Meses</h2>
+          <div class="panel-controls">
+            <button id="anMesesTodos" class="btn btn-outline">Todos</button>
+            <button id="anMesesNenhum" class="btn btn-outline">Limpar</button>
+          </div>
+        </div>
+        <div class="months-grid" id="anMesesGrid"></div>
+      </div>
+
+      <div class="cards">
+        <div class="card">
+          <span class="card-label">Pedidos</span>
+          <span class="card-value" id="anPedidos">—</span>
+        </div>
+        <div class="card">
+          <span class="card-label">Peso total (Kg)</span>
+          <span class="card-value" id="anPeso">—</span>
+        </div>
+        <div class="card">
+          <span class="card-label">Faturamento total</span>
+          <span class="card-value" id="anValor">—</span>
+        </div>
+        <div class="card">
+          <span class="card-label">Comissão total</span>
+          <span class="card-value" id="anComissao">—</span>
+        </div>
+      </div>
+
+      <div class="panel">
+        <div class="panel-header">
+          <h2 id="anBreakdownTitle">Detalhamento</h2>
+        </div>
+        <div class="table-wrap">
+          <table class="table" id="anTable">
+            <thead><tr id="anTableHead"></tr></thead>
+            <tbody id="anTableBody"></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+  </main>
+</div>
+
+<!-- Modal: Pedido form -->
+<div class="modal-overlay" id="pedidoModalOverlay">
+  <div class="modal">
+    <h2 id="pedidoModalTitle">Novo pedido</h2>
+    <form id="pedidoForm">
+      <input type="hidden" id="f_id">
+      <div class="form-row">
+        <label>Data</label>
+        <input type="date" id="f_data" required>
+      </div>
+      <div class="form-row">
+        <label>Empresa</label>
+        <input type="text" id="f_empresa" list="empresaList" required>
+        <datalist id="empresaList"></datalist>
+      </div>
+      <div class="form-row two">
+        <div>
+          <label>Nº Pedido</label>
+          <input type="number" id="f_pedido" required>
+        </div>
+        <div>
+          <label>NF</label>
+          <input type="number" id="f_nf">
+        </div>
+      </div>
+      <div class="form-row two">
+        <div>
+          <label>Valor (R$)</label>
+          <input type="number" step="0.01" id="f_valor" required>
+        </div>
+        <div>
+          <label>Peso (kg)</label>
+          <input type="number" step="0.01" id="f_peso">
+        </div>
+      </div>
+      <div class="form-row">
+        <label>Comissão (%)</label>
+        <input type="number" step="0.0001" id="f_comissaoPct" value="0.0075" required>
+      </div>
+      <div class="form-row">
+        <label>Comissão calculada</label>
+        <input type="text" id="f_comissaoPreview" disabled>
+      </div>
+      <div class="modal-actions">
+        <button type="button" class="btn btn-ghost" id="btnCancelPedido">Cancelar</button>
+        <button type="submit" class="btn btn-primary">Salvar</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<!-- Modal: Settings / GitHub sync -->
+<div class="modal-overlay" id="settingsModalOverlay">
+  <div class="modal">
+    <h2>Sincronização (GitHub)</h2>
+    <p class="modal-help">
+      Configure abaixo o token de acesso deste perfil/computador. O token fica salvo
+      somente neste navegador e é usado para ler e gravar o arquivo <code>data/orders.json</code>
+      diretamente no repositório do GitHub.
+    </p>
+    <form id="settingsForm">
+      <div class="form-row">
+        <label>Usuário/Organização do GitHub</label>
+        <input type="text" id="s_owner" placeholder="ex: paulohenrique">
+      </div>
+      <div class="form-row">
+        <label>Repositório</label>
+        <input type="text" id="s_repo" placeholder="ex: SalesFercoi2026">
+      </div>
+      <div class="form-row">
+        <label>Branch</label>
+        <input type="text" id="s_branch" placeholder="main" value="main">
+      </div>
+      <div class="form-row">
+        <label>Caminho do arquivo de dados</label>
+        <input type="text" id="s_path" placeholder="data/orders.json" value="data/orders.json">
+      </div>
+      <div class="form-row">
+        <label>Personal Access Token (fine-grained, apenas este repo)</label>
+        <input type="password" id="s_token" placeholder="github_pat_...">
+      </div>
+      <div class="modal-actions">
+        <button type="button" class="btn btn-ghost" id="btnLimparToken">Remover token</button>
+        <button type="button" class="btn btn-ghost" id="btnCancelSettings">Cancelar</button>
+        <button type="submit" class="btn btn-primary">Salvar configuração</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
+<script src="js/config.js"></script>
+<script src="js/github.js"></script>
+<script src="js/store.js"></script>
+<script src="js/charts.js"></script>
+<script src="js/pedidos.js"></script>
+<script src="js/analise.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
