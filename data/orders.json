@@ -7,7 +7,7 @@
     "comissaoPct": 0.0075,
     "nf": 388762,
     "empresa": "HCI Hidraulica Conexoes Industriais",
-    "peso": 5290.0,
+    "peso": 5290,
     "comissaoValor": 245.29
   },
   {
@@ -18,7 +18,7 @@
     "comissaoPct": 0.0075,
     "nf": 388764,
     "empresa": "HCI Hidraulica Conexoes Industriais",
-    "peso": 3407.0,
+    "peso": 3407,
     "comissaoValor": 201.99
   },
   {
@@ -29,7 +29,7 @@
     "comissaoPct": 0.0075,
     "nf": 389086,
     "empresa": "Labor Equipamentos Rodoviários Ltda",
-    "peso": 1575.0,
+    "peso": 1575,
     "comissaoValor": 81.72
   },
   {
@@ -40,7 +40,7 @@
     "comissaoPct": 0.0075,
     "nf": 389074,
     "empresa": "Mz Fluid Projetos e Equipamentos",
-    "peso": 2330.0,
+    "peso": 2330,
     "comissaoValor": 122.03
   },
   {
@@ -51,29 +51,29 @@
     "comissaoPct": 0.0075,
     "nf": 389292,
     "empresa": "Poleoduto Indústria e Comércio de Eletro-Mecênicos Ltda",
-    "peso": 4350.0,
+    "peso": 4350,
     "comissaoValor": 197.73
   },
   {
     "id": 6,
     "data": "2026-01-19",
     "pedido": 448370,
-    "valor": 874.0,
+    "valor": 874,
     "comissaoPct": 0.0075,
     "nf": 389294,
     "empresa": "Poleoduto Indústria e Comércio de Eletro-Mecênicos Ltda",
-    "peso": 115.0,
+    "peso": 115,
     "comissaoValor": 6.55
   },
   {
     "id": 7,
     "data": "2026-01-27",
     "pedido": 448560,
-    "valor": 4632.0,
+    "valor": 4632,
     "comissaoPct": 0.0075,
     "nf": 389911,
     "empresa": "Latasa Industria e Comercio de Metais",
-    "peso": 740.0,
+    "peso": 740,
     "comissaoValor": 34.74
   },
   {
@@ -84,7 +84,7 @@
     "comissaoPct": 0.0075,
     "nf": 389912,
     "empresa": "Latasa Industria e Comercio de Metais",
-    "peso": 17049.0,
+    "peso": 17049,
     "comissaoValor": 826.76
   },
   {
@@ -95,7 +95,7 @@
     "comissaoPct": 0.0075,
     "nf": 389913,
     "empresa": "Latasa Industria e Comercio de Metais",
-    "peso": 1545.0,
+    "peso": 1545,
     "comissaoValor": 102.05
   },
   {
@@ -106,7 +106,7 @@
     "comissaoPct": 0.0075,
     "nf": 390013,
     "empresa": "Poleoduto Indústria e Comércio de Eletro-Mecênicos Ltda",
-    "peso": 75.0,
+    "peso": 75,
     "comissaoValor": 3.66
   },
   {
@@ -117,7 +117,7 @@
     "comissaoPct": 0.0075,
     "nf": 390043,
     "empresa": "Costafer Caldeiraria e Manutenção de Maquinas",
-    "peso": 1465.0,
+    "peso": 1465,
     "comissaoValor": 86.37
   },
   {
@@ -128,7 +128,7 @@
     "comissaoPct": 0.0075,
     "nf": 390044,
     "empresa": "Costafer Caldeiraria e Manutenção de Maquinas",
-    "peso": 275.0,
+    "peso": 275,
     "comissaoValor": 15.37
   },
   {
@@ -139,7 +139,7 @@
     "comissaoPct": 0.0075,
     "nf": 390234,
     "empresa": "CRV Industrial (MG)",
-    "peso": 3015.0,
+    "peso": 3015,
     "comissaoValor": 201.95
   },
   {
@@ -150,7 +150,7 @@
     "comissaoPct": 0.0075,
     "nf": 390234,
     "empresa": "CRV Industrial (MG)",
-    "peso": 3015.0,
+    "peso": 3015,
     "comissaoValor": 201.96
   },
   {
@@ -161,7 +161,7 @@
     "comissaoPct": 0.0075,
     "nf": 390176,
     "empresa": "Labor Equipamentos Rodoviários Ltda",
-    "peso": 3365.0,
+    "peso": 3365,
     "comissaoValor": 171.98
   },
   {
@@ -172,18 +172,18 @@
     "comissaoPct": 0.0075,
     "nf": 390405,
     "empresa": "Aços America Latina",
-    "peso": 641.0,
+    "peso": 641,
     "comissaoValor": 39.57
   },
   {
     "id": 17,
     "data": "2026-02-04",
     "pedido": 448888,
-    "valor": 315.0,
+    "valor": 315,
     "comissaoPct": 0.0075,
     "nf": 390406,
     "empresa": "Aços America Latina",
-    "peso": 35.0,
+    "peso": 35,
     "comissaoValor": 2.36
   },
   {
@@ -194,29 +194,29 @@
     "comissaoPct": 0.0075,
     "nf": 390458,
     "empresa": "Pipeline Engenharia e Serviços Ltda",
-    "peso": 3900.0,
+    "peso": 3900,
     "comissaoValor": 204.25
   },
   {
     "id": 19,
     "data": "2026-02-05",
     "pedido": 449359,
-    "valor": 48492.0,
+    "valor": 48492,
     "comissaoPct": 0.0075,
     "nf": 390449,
     "empresa": "Costafer Caldeiraria e Manutenção de Maquinas",
-    "peso": 6235.0,
+    "peso": 6235,
     "comissaoValor": 363.69
   },
   {
     "id": 20,
     "data": "2026-02-10",
     "pedido": 449483,
-    "valor": 9252.0,
+    "valor": 9252,
     "comissaoPct": 0.0075,
     "nf": 390767,
     "empresa": "CRV Industrial (MG)",
-    "peso": 1200.0,
+    "peso": 1200,
     "comissaoValor": 69.39
   },
   {
@@ -227,7 +227,7 @@
     "comissaoPct": 0.0075,
     "nf": 390673,
     "empresa": "Aukzzo Industria e Comercio de peças",
-    "peso": 3760.0,
+    "peso": 3760,
     "comissaoValor": 171.71
   },
   {
@@ -238,7 +238,7 @@
     "comissaoPct": 0.0075,
     "nf": 390674,
     "empresa": "ZZK Industria e comercio de peças",
-    "peso": 2274.0,
+    "peso": 2274,
     "comissaoValor": 139.11
   },
   {
@@ -249,29 +249,29 @@
     "comissaoPct": 0.0075,
     "nf": 390866,
     "empresa": "Mz Fluid Projetos e Equipamentos",
-    "peso": 440.0,
+    "peso": 440,
     "comissaoValor": 23.22
   },
   {
     "id": 24,
     "data": "2026-02-11",
     "pedido": 449718,
-    "valor": 600.0,
+    "valor": 600,
     "comissaoPct": 0.0075,
     "nf": 390868,
     "empresa": "Mz Fluid Projetos e Equipamentos",
-    "peso": 80.0,
+    "peso": 80,
     "comissaoValor": 4.5
   },
   {
     "id": 25,
     "data": "2026-02-11",
     "pedido": 449752,
-    "valor": 11544.0,
+    "valor": 11544,
     "comissaoPct": 0.0075,
     "nf": 390814,
     "empresa": "Pedreira DoValle Ltda",
-    "peso": 1480.0,
+    "peso": 1480,
     "comissaoValor": 86.58
   },
   {
@@ -282,7 +282,7 @@
     "comissaoPct": 0.0075,
     "nf": 390921,
     "empresa": "CRV Industrial (MG)",
-    "peso": 2915.0,
+    "peso": 2915,
     "comissaoValor": 167.9
   },
   {
@@ -293,18 +293,18 @@
     "comissaoPct": 0.0075,
     "nf": 390967,
     "empresa": "Agro Serra Industrila",
-    "peso": 3724.0,
+    "peso": 3724,
     "comissaoValor": 174.99
   },
   {
     "id": 28,
     "data": "2026-02-13",
     "pedido": 449748,
-    "valor": 56371.0,
+    "valor": 56371,
     "comissaoPct": 0.0075,
     "nf": 390968,
     "empresa": "Agro Serra Industrila",
-    "peso": 6820.0,
+    "peso": 6820,
     "comissaoValor": 422.78
   },
   {
@@ -315,7 +315,7 @@
     "comissaoPct": 0.0075,
     "nf": 390937,
     "empresa": "Perfilaço (BA)",
-    "peso": 2215.0,
+    "peso": 2215,
     "comissaoValor": 100.34
   },
   {
@@ -326,18 +326,18 @@
     "comissaoPct": 0.0075,
     "nf": 390977,
     "empresa": "VMP Industrial Ltda",
-    "peso": 945.0,
+    "peso": 945,
     "comissaoValor": 100.03
   },
   {
     "id": 31,
     "data": "2026-02-13",
     "pedido": 450025,
-    "valor": 1974.0,
+    "valor": 1974,
     "comissaoPct": 0.0075,
     "nf": 390975,
     "empresa": "Aços America Latina",
-    "peso": 210.0,
+    "peso": 210,
     "comissaoValor": 14.8
   },
   {
@@ -348,7 +348,7 @@
     "comissaoPct": 0.0075,
     "nf": 391018,
     "empresa": "HCI Hidraulica Conexoes Industriais",
-    "peso": 770.0,
+    "peso": 770,
     "comissaoValor": 35.41
   },
   {
@@ -359,7 +359,7 @@
     "comissaoPct": 0.0075,
     "nf": 391013,
     "empresa": "Cadeiras Gennaro Ferrante Ltda",
-    "peso": 2110.0,
+    "peso": 2110,
     "comissaoValor": 105.72
   },
   {
@@ -370,7 +370,7 @@
     "comissaoPct": 0.0075,
     "nf": 391024,
     "empresa": "Labor Equipamentos Rodoviários Ltda",
-    "peso": 7595.0,
+    "peso": 7595,
     "comissaoValor": 528.15
   },
   {
@@ -381,7 +381,7 @@
     "comissaoPct": 0.0075,
     "nf": 391025,
     "empresa": "HCI Hidraulica Conexoes Industriais (Caldeiraria)",
-    "peso": 2385.0,
+    "peso": 2385,
     "comissaoValor": 129.74
   },
   {
@@ -392,7 +392,7 @@
     "comissaoPct": 0.0075,
     "nf": 391043,
     "empresa": "MZ Fluid Projetos e Equipamentos",
-    "peso": 455.0,
+    "peso": 455,
     "comissaoValor": 25.02
   },
   {
@@ -403,7 +403,7 @@
     "comissaoPct": 0.0075,
     "nf": 391103,
     "empresa": "HCI Hidraulica Conexoes Industriais",
-    "peso": 1160.0,
+    "peso": 1160,
     "comissaoValor": 53.11
   },
   {
@@ -414,7 +414,7 @@
     "comissaoPct": 0.0075,
     "nf": 391083,
     "empresa": "Aukzzo Industria e Comercio de peças",
-    "peso": 3845.0,
+    "peso": 3845,
     "comissaoValor": 217.36
   },
   {
@@ -425,7 +425,7 @@
     "comissaoPct": 0.0075,
     "nf": 391211,
     "empresa": "Labor Equipamentos Rodoviários Ltda",
-    "peso": 4311.0,
+    "peso": 4311,
     "comissaoValor": 210.31
   },
   {
@@ -436,7 +436,7 @@
     "comissaoPct": 0.0075,
     "nf": 391448,
     "empresa": "CRV Industrial (MG)",
-    "peso": 495.0,
+    "peso": 495,
     "comissaoValor": 26.52
   },
   {
@@ -447,7 +447,7 @@
     "comissaoPct": 0.0075,
     "nf": 391678,
     "empresa": "Aukzzo Industria e Comercio de peças",
-    "peso": 1940.0,
+    "peso": 1940,
     "comissaoValor": 109.67
   },
   {
@@ -458,7 +458,7 @@
     "comissaoPct": 0.0075,
     "nf": 391679,
     "empresa": "Aukzzo Industria e Comercio de peças",
-    "peso": 2685.0,
+    "peso": 2685,
     "comissaoValor": 151.78
   },
   {
@@ -469,7 +469,7 @@
     "comissaoPct": 0.0075,
     "nf": 391680,
     "empresa": "ZZK Industria e comercio de peças",
-    "peso": 5400.0,
+    "peso": 5400,
     "comissaoValor": 305.26
   },
   {
@@ -480,7 +480,7 @@
     "comissaoPct": 0.0075,
     "nf": 391795,
     "empresa": "Diffusa Metalurgica",
-    "peso": 4645.0,
+    "peso": 4645,
     "comissaoValor": 256.43
   },
   {
@@ -491,7 +491,7 @@
     "comissaoPct": 0.0075,
     "nf": 391809,
     "empresa": "Costafer Caldeiraria e Manutenção de Maquinas",
-    "peso": 2330.0,
+    "peso": 2330,
     "comissaoValor": 123.62
   },
   {
@@ -502,18 +502,18 @@
     "comissaoPct": 0.0075,
     "nf": 391899,
     "empresa": "Labor Equipamentos Rodoviários Ltda",
-    "peso": 1350.0,
+    "peso": 1350,
     "comissaoValor": 65.86
   },
   {
     "id": 47,
     "data": "2026-03-04",
     "pedido": 450908,
-    "valor": 39213.0,
+    "valor": 39213,
     "comissaoPct": 0.0075,
     "nf": 392052,
     "empresa": "CRV Industrial (MG)",
-    "peso": 4570.0,
+    "peso": 4570,
     "comissaoValor": 294.1
   },
   {
@@ -524,7 +524,7 @@
     "comissaoPct": 0.0075,
     "nf": 391989,
     "empresa": "Santa Felicidade Mineração",
-    "peso": 3730.0,
+    "peso": 3730,
     "comissaoValor": 202.74
   },
   {
@@ -535,7 +535,7 @@
     "comissaoPct": 0.0075,
     "nf": 392053,
     "empresa": "CRV Industrial (MG)",
-    "peso": 415.0,
+    "peso": 415,
     "comissaoValor": 27.48
   },
   {
@@ -546,7 +546,7 @@
     "comissaoPct": 0.0075,
     "nf": 392055,
     "empresa": "CRV Industrial (MG)",
-    "peso": 32.0,
+    "peso": 32,
     "comissaoValor": 1.72
   },
   {
@@ -557,7 +557,7 @@
     "comissaoPct": 0.0075,
     "nf": 392117,
     "empresa": "Cadeiras Gennaro Ferrante Ltda",
-    "peso": 410.0,
+    "peso": 410,
     "comissaoValor": 20.38
   },
   {
@@ -568,7 +568,7 @@
     "comissaoPct": 0.0075,
     "nf": 392103,
     "empresa": "MZ Fluid Projetos e Equipamentos",
-    "peso": 592.0,
+    "peso": 592,
     "comissaoValor": 30.54
   },
   {
@@ -579,7 +579,7 @@
     "comissaoPct": 0.0075,
     "nf": 392105,
     "empresa": "MZ Fluid Projetos e Equipamentos",
-    "peso": 4.0,
+    "peso": 4,
     "comissaoValor": 0.33
   },
   {
@@ -590,7 +590,7 @@
     "comissaoPct": 0.0075,
     "nf": 392110,
     "empresa": "Aukzzo Industria e Comercio de peças",
-    "peso": 2360.0,
+    "peso": 2360,
     "comissaoValor": 133.41
   },
   {
@@ -601,7 +601,7 @@
     "comissaoPct": 0.0075,
     "nf": 392110,
     "empresa": "Aukzzo Industria e Comercio de peças",
-    "peso": 2360.0,
+    "peso": 2360,
     "comissaoValor": 133.41
   },
   {
@@ -612,7 +612,7 @@
     "comissaoPct": 0.0075,
     "nf": 392168,
     "empresa": "Labor Equipamentos Rodoviários Ltda",
-    "peso": 5779.0,
+    "peso": 5779,
     "comissaoValor": 320.23
   },
   {
@@ -623,7 +623,7 @@
     "comissaoPct": 0.0075,
     "nf": 392255,
     "empresa": "HCI Hidraulica Conexoes Industriais",
-    "peso": 19986.0,
+    "peso": 19986,
     "comissaoValor": 948.83
   },
   {
@@ -634,7 +634,7 @@
     "comissaoPct": 0.0075,
     "nf": 392223,
     "empresa": "HCI Hidraulica Conexoes Industriais",
-    "peso": 8917.0,
+    "peso": 8917,
     "comissaoValor": 441.88
   },
   {
@@ -645,7 +645,7 @@
     "comissaoPct": 0.0075,
     "nf": 392395,
     "empresa": "Cadeiras Gennaro Ferrante Ltda",
-    "peso": 780.0,
+    "peso": 780,
     "comissaoValor": 39.01
   },
   {
@@ -656,7 +656,7 @@
     "comissaoPct": 0.0075,
     "nf": 392214,
     "empresa": "Diffusa Metalurgica",
-    "peso": 3150.0,
+    "peso": 3150,
     "comissaoValor": 172.68
   },
   {
@@ -667,7 +667,7 @@
     "comissaoPct": 0.0075,
     "nf": 392215,
     "empresa": "Diffusa Metalurgica",
-    "peso": 280.0,
+    "peso": 280,
     "comissaoValor": 14.96
   },
   {
@@ -678,7 +678,7 @@
     "comissaoPct": 0.0075,
     "nf": 392402,
     "empresa": "Aukzzo Industria e Comercio de peças",
-    "peso": 4455.0,
+    "peso": 4455,
     "comissaoValor": 252.87
   },
   {
@@ -689,7 +689,7 @@
     "comissaoPct": 0.0075,
     "nf": 392403,
     "empresa": "Aukzzo Industria e Comercio de peças",
-    "peso": 2360.0,
+    "peso": 2360,
     "comissaoValor": 133.41
   },
   {
@@ -700,7 +700,7 @@
     "comissaoPct": 0.0075,
     "nf": 392469,
     "empresa": "HCI Hidraulica Conexoes Industriais",
-    "peso": 5364.0,
+    "peso": 5364,
     "comissaoValor": 236.03
   },
   {
@@ -711,7 +711,7 @@
     "comissaoPct": 0.0075,
     "nf": 392404,
     "empresa": "ZZK Industria e comercio de peças",
-    "peso": 3700.0,
+    "peso": 3700,
     "comissaoValor": 209.16
   },
   {
@@ -722,18 +722,18 @@
     "comissaoPct": 0.0075,
     "nf": 392516,
     "empresa": "Costafer Caldeiraria e Manutenção de Maquinas",
-    "peso": 618.0,
+    "peso": 618,
     "comissaoValor": 37.81
   },
   {
     "id": 67,
     "data": "2026-03-12",
     "pedido": 451637,
-    "valor": 2100.0,
+    "valor": 2100,
     "comissaoPct": 0.0075,
     "nf": 392517,
     "empresa": "Costafer Caldeiraria e Manutenção de Maquinas",
-    "peso": 300.0,
+    "peso": 300,
     "comissaoValor": 15.75
   },
   {
@@ -744,7 +744,7 @@
     "comissaoPct": 0.0075,
     "nf": 392561,
     "empresa": "Aços America Latina",
-    "peso": 1512.0,
+    "peso": 1512,
     "comissaoValor": 81.5
   },
   {
@@ -755,7 +755,7 @@
     "comissaoPct": 0.0075,
     "nf": 392599,
     "empresa": "HCI Hidraulica Conexoes Industriais",
-    "peso": 5950.0,
+    "peso": 5950,
     "comissaoValor": 283.24
   },
   {
@@ -766,7 +766,7 @@
     "comissaoPct": 0.0075,
     "nf": 392683,
     "empresa": "Aukzzo Industria e Comercio de peças",
-    "peso": 1515.0,
+    "peso": 1515,
     "comissaoValor": 85.64
   },
   {
@@ -777,7 +777,7 @@
     "comissaoPct": 0.0075,
     "nf": 392745,
     "empresa": "Luis do Santos Votorantim Ltda",
-    "peso": 2195.0,
+    "peso": 2195,
     "comissaoValor": 122.48
   },
   {
@@ -788,7 +788,7 @@
     "comissaoPct": 0.0075,
     "nf": 392672,
     "empresa": "Diffusa Metalurgica",
-    "peso": 1735.0,
+    "peso": 1735,
     "comissaoValor": 92.7
   },
   {
@@ -799,7 +799,7 @@
     "comissaoPct": 0.0075,
     "nf": 392770,
     "empresa": "Labor Equipamentos Rodoviários Ltda",
-    "peso": 10005.0,
+    "peso": 10005,
     "comissaoValor": 486.97
   },
   {
@@ -810,7 +810,7 @@
     "comissaoPct": 0.0075,
     "nf": 392673,
     "empresa": "Diffusa Metalurgica",
-    "peso": 185.0,
+    "peso": 185,
     "comissaoValor": 10.89
   },
   {
@@ -821,29 +821,29 @@
     "comissaoPct": 0.0075,
     "nf": 392685,
     "empresa": "ZZK Industria e comercio de peças",
-    "peso": 4470.0,
+    "peso": 4470,
     "comissaoValor": 245.34
   },
   {
     "id": 76,
     "data": "2026-03-17",
     "pedido": 451847,
-    "valor": 7488.0,
+    "valor": 7488,
     "comissaoPct": 0.0075,
     "nf": 392832,
     "empresa": "Perfilaço (BA)",
-    "peso": 1040.0,
+    "peso": 1040,
     "comissaoValor": 56.16
   },
   {
     "id": 77,
     "data": "2026-03-17",
     "pedido": 451906,
-    "valor": 40826.0,
+    "valor": 40826,
     "comissaoPct": 0.0075,
     "nf": 392793,
     "empresa": "Poleoduto Indústria e Comércio de Eletro-Mecênicos Ltda",
-    "peso": 5960.0,
+    "peso": 5960,
     "comissaoValor": 306.19
   },
   {
@@ -854,7 +854,7 @@
     "comissaoPct": 0.0075,
     "nf": 392794,
     "empresa": "Poleoduto Indústria e Comércio de Eletro-Mecênicos Ltda",
-    "peso": 545.0,
+    "peso": 545,
     "comissaoValor": 25.32
   },
   {
@@ -865,7 +865,7 @@
     "comissaoPct": 0.0075,
     "nf": 392973,
     "empresa": "ZZK Industria e comercio de peças",
-    "peso": 2580.0,
+    "peso": 2580,
     "comissaoValor": 145.85
   },
   {
@@ -876,7 +876,7 @@
     "comissaoPct": 0.0075,
     "nf": 393038,
     "empresa": "CRV Industrial (MG)",
-    "peso": 2631.0,
+    "peso": 2631,
     "comissaoValor": 151.58
   },
   {
@@ -887,7 +887,7 @@
     "comissaoPct": 0.0075,
     "nf": 393034,
     "empresa": "Pipeline Engenharia e Serviços Ltda",
-    "peso": 1160.0,
+    "peso": 1160,
     "comissaoValor": 70.1
   },
   {
@@ -898,7 +898,7 @@
     "comissaoPct": 0.0075,
     "nf": 393156,
     "empresa": "Cadeiras Gennaro Ferrante Ltda",
-    "peso": 1080.0,
+    "peso": 1080,
     "comissaoValor": 54.2
   },
   {
@@ -909,7 +909,7 @@
     "comissaoPct": 0.0075,
     "nf": 393158,
     "empresa": "Cadeiras Gennaro Ferrante Ltda",
-    "peso": 545.0,
+    "peso": 545,
     "comissaoValor": 27.23
   },
   {
@@ -920,7 +920,7 @@
     "comissaoPct": 0.0075,
     "nf": 393233,
     "empresa": "HCI Hidraulica Conexoes Industriais",
-    "peso": 2303.0,
+    "peso": 2303,
     "comissaoValor": 129.58
   },
   {
@@ -931,7 +931,7 @@
     "comissaoPct": 0.0075,
     "nf": 393303,
     "empresa": "Ethic Metalurgica Ltda",
-    "peso": 3430.0,
+    "peso": 3430,
     "comissaoValor": 204.99
   },
   {
@@ -942,18 +942,18 @@
     "comissaoPct": 0.0075,
     "nf": 393395,
     "empresa": "Pedreira DoValle Ltda",
-    "peso": 3845.0,
+    "peso": 3845,
     "comissaoValor": 239.35
   },
   {
     "id": 87,
     "data": "2026-03-26",
     "pedido": 4520275,
-    "valor": 88312.0,
+    "valor": 88312,
     "comissaoPct": 0.0075,
     "nf": 393508,
     "empresa": "Nova Everest Suprimentos Industriais",
-    "peso": 11620.0,
+    "peso": 11620,
     "comissaoValor": 662.34
   },
   {
@@ -964,7 +964,7 @@
     "comissaoPct": 0.0075,
     "nf": 393632,
     "empresa": "Diffusa Metalurgica",
-    "peso": 5560.0,
+    "peso": 5560,
     "comissaoValor": 317.09
   },
   {
@@ -975,7 +975,7 @@
     "comissaoPct": 0.0075,
     "nf": 393651,
     "empresa": "ControlFlex Ind Cabos",
-    "peso": 1233.0,
+    "peso": 1233,
     "comissaoValor": 134.03
   },
   {
@@ -986,7 +986,7 @@
     "comissaoPct": 0.0075,
     "nf": 39365,
     "empresa": "CRV Industrial (MG)",
-    "peso": 440.0,
+    "peso": 440,
     "comissaoValor": 25.34
   },
   {
@@ -997,7 +997,7 @@
     "comissaoPct": 0.0075,
     "nf": 393820,
     "empresa": "VMP Industrial Ltda",
-    "peso": 685.0,
+    "peso": 685,
     "comissaoValor": 34.48
   },
   {
@@ -1008,7 +1008,7 @@
     "comissaoPct": 0.0075,
     "nf": 393819,
     "empresa": "VMP Industrial Ltda",
-    "peso": 305.0,
+    "peso": 305,
     "comissaoValor": 16.51
   },
   {
@@ -1019,7 +1019,7 @@
     "comissaoPct": 0.0075,
     "nf": 393901,
     "empresa": "Aukzzo Industria e Comercio de peças",
-    "peso": 4558.0,
+    "peso": 4558,
     "comissaoValor": 244.37
   },
   {
@@ -1030,7 +1030,7 @@
     "comissaoPct": 0.0075,
     "nf": 393976,
     "empresa": "Cadeiras Gennaro Ferrante Ltda",
-    "peso": 755.0,
+    "peso": 755,
     "comissaoValor": 37.55
   },
   {
@@ -1041,18 +1041,18 @@
     "comissaoPct": 0.0075,
     "nf": 393962,
     "empresa": "Construtora Parananse",
-    "peso": 4920.0,
+    "peso": 4920,
     "comissaoValor": 319.68
   },
   {
     "id": 96,
     "data": "2026-04-02",
     "pedido": 452952,
-    "valor": 15138.0,
+    "valor": 15138,
     "comissaoPct": 0.0075,
     "nf": 393969,
     "empresa": "CRV Industrial (MG)",
-    "peso": 1740.0,
+    "peso": 1740,
     "comissaoValor": 113.53
   },
   {
@@ -1063,7 +1063,7 @@
     "comissaoPct": 0.0075,
     "nf": 393987,
     "empresa": "Latasa Industria e Comercio de Metais",
-    "peso": 27058.0,
+    "peso": 27058,
     "comissaoValor": 1351.2
   },
   {
@@ -1074,7 +1074,7 @@
     "comissaoPct": 0.0075,
     "nf": 394092,
     "empresa": "Pipeline Engenharia e Serviços Ltda",
-    "peso": 990.0,
+    "peso": 990,
     "comissaoValor": 65.75
   },
   {
@@ -1085,7 +1085,7 @@
     "comissaoPct": 0.0075,
     "nf": 394172,
     "empresa": "Tetracom Equipamentos Industriais",
-    "peso": 2750.0,
+    "peso": 2750,
     "comissaoValor": 153.33
   },
   {
@@ -1096,7 +1096,7 @@
     "comissaoPct": 0.0075,
     "nf": 394281,
     "empresa": "HCI Hidraulica Conexoes Industriais",
-    "peso": 650.0,
+    "peso": 650,
     "comissaoValor": 38.2
   },
   {
@@ -1107,7 +1107,7 @@
     "comissaoPct": 0.0075,
     "nf": 394282,
     "empresa": "HCI Hidraulica Conexoes Industriais",
-    "peso": 23692.0,
+    "peso": 23692,
     "comissaoValor": 1296.63
   },
   {
@@ -1118,7 +1118,7 @@
     "comissaoPct": 0.0075,
     "nf": 394262,
     "empresa": "Diffusa Metalurgica",
-    "peso": 1745.0,
+    "peso": 1745,
     "comissaoValor": 91.1
   },
   {
@@ -1129,7 +1129,7 @@
     "comissaoPct": 0.0075,
     "nf": 394594,
     "empresa": "HCI Hidraulica Conexoes Industriais",
-    "peso": 430.0,
+    "peso": 430,
     "comissaoValor": 27.97
   },
   {
@@ -1140,7 +1140,7 @@
     "comissaoPct": 0.0075,
     "nf": 394545,
     "empresa": "Heating Cooling Tecnologia",
-    "peso": 895.0,
+    "peso": 895,
     "comissaoValor": 46.65
   },
   {
@@ -1151,7 +1151,7 @@
     "comissaoPct": 0.0075,
     "nf": 394546,
     "empresa": "Heating Cooling Tecnologia",
-    "peso": 420.0,
+    "peso": 420,
     "comissaoValor": 26.34
   },
   {
@@ -1162,7 +1162,7 @@
     "comissaoPct": 0.0075,
     "nf": 394547,
     "empresa": "Heating Cooling Tecnologia",
-    "peso": 1280.0,
+    "peso": 1280,
     "comissaoValor": 66.66
   },
   {
@@ -1173,7 +1173,7 @@
     "comissaoPct": 0.0075,
     "nf": 394647,
     "empresa": "HCI Hidraulica Conexoes Industriais",
-    "peso": 1887.0,
+    "peso": 1887,
     "comissaoValor": 111.07
   },
   {
@@ -1184,7 +1184,7 @@
     "comissaoPct": 0.0075,
     "nf": 394723,
     "empresa": "Diffusa Metalurgica",
-    "peso": 3020.0,
+    "peso": 3020,
     "comissaoValor": 173.18
   },
   {
@@ -1195,7 +1195,7 @@
     "comissaoPct": 0.0075,
     "nf": 39994,
     "empresa": "Aços America Latina",
-    "peso": 855.0,
+    "peso": 855,
     "comissaoValor": 54.51
   },
   {
@@ -1206,7 +1206,7 @@
     "comissaoPct": 0.0075,
     "nf": 395028,
     "empresa": "Heating Cooling Tecnologia",
-    "peso": 4931.0,
+    "peso": 4931,
     "comissaoValor": 259.48
   },
   {
@@ -1217,29 +1217,29 @@
     "comissaoPct": 0.0075,
     "nf": 395158,
     "empresa": "Diffusa Metalurgica",
-    "peso": 2320.0,
+    "peso": 2320,
     "comissaoValor": 123.96
   },
   {
     "id": 112,
     "data": "2026-04-28",
     "pedido": 454294,
-    "valor": 10350.0,
+    "valor": 10350,
     "comissaoPct": 0.0075,
     "nf": 395173,
     "empresa": "Heating Cooling Tecnologia",
-    "peso": 1485.0,
+    "peso": 1485,
     "comissaoValor": 77.62
   },
   {
     "id": 113,
     "data": "2026-04-29",
     "pedido": 454482,
-    "valor": 9335.0,
+    "valor": 9335,
     "comissaoPct": 0.0075,
     "nf": 395285,
     "empresa": "Heating Cooling Tecnologia",
-    "peso": 1340.0,
+    "peso": 1340,
     "comissaoValor": 70.01
   },
   {
@@ -1250,7 +1250,7 @@
     "comissaoPct": 0.0075,
     "nf": 395406,
     "empresa": "Cadeiras Gennaro Ferrante Ltda",
-    "peso": 925.0,
+    "peso": 925,
     "comissaoValor": 48.71
   },
   {
@@ -1261,7 +1261,7 @@
     "comissaoPct": 0.0075,
     "nf": 395371,
     "empresa": "Labor Equipamentos Rodoviários Ltda",
-    "peso": 8525.0,
+    "peso": 8525,
     "comissaoValor": 429.1
   },
   {
@@ -1272,7 +1272,7 @@
     "comissaoPct": 0.0075,
     "nf": 395389,
     "empresa": "ControlFlex Ind Cabos",
-    "peso": 1047.0,
+    "peso": 1047,
     "comissaoValor": 78.03
   },
   {
@@ -1283,7 +1283,7 @@
     "comissaoPct": 0.0075,
     "nf": 395391,
     "empresa": "Codex Engenharia Ltda",
-    "peso": 115.0,
+    "peso": 115,
     "comissaoValor": 7.12
   },
   {
@@ -1294,7 +1294,7 @@
     "comissaoPct": 0.0075,
     "nf": 395545,
     "empresa": "Recivale Industria e Comercio",
-    "peso": 10185.0,
+    "peso": 10185,
     "comissaoValor": 540.87
   },
   {
@@ -1305,7 +1305,7 @@
     "comissaoPct": 0.0075,
     "nf": 395546,
     "empresa": "Latasa Industria e Comercio de Metais",
-    "peso": 12768.0,
+    "peso": 12768,
     "comissaoValor": 662.73
   },
   {
@@ -1316,7 +1316,7 @@
     "comissaoPct": 0.0075,
     "nf": 395517,
     "empresa": "Heating Cooling Tecnologia",
-    "peso": 2695.0,
+    "peso": 2695,
     "comissaoValor": 140.48
   },
   {
@@ -1327,7 +1327,7 @@
     "comissaoPct": 0.0075,
     "nf": 395565,
     "empresa": "Ethic Metalurgica Ltda",
-    "peso": 2795.0,
+    "peso": 2795,
     "comissaoValor": 144.14
   },
   {
@@ -1338,7 +1338,7 @@
     "comissaoPct": 0.0075,
     "nf": 395682,
     "empresa": "Diffusa Metalurgica",
-    "peso": 1980.0,
+    "peso": 1980,
     "comissaoValor": 105.39
   },
   {
@@ -1349,7 +1349,7 @@
     "comissaoPct": 0.0075,
     "nf": 395705,
     "empresa": "Latasa Metais Ltda",
-    "peso": 1670.0,
+    "peso": 1670,
     "comissaoValor": 103.02
   },
   {
@@ -1360,7 +1360,7 @@
     "comissaoPct": 0.0075,
     "nf": 395801,
     "empresa": "CRV Industrial (MG)",
-    "peso": 2075.0,
+    "peso": 2075,
     "comissaoValor": 121.19
   },
   {
@@ -1371,18 +1371,18 @@
     "comissaoPct": 0.0075,
     "nf": 395757,
     "empresa": "Recald Caldeiraria Industrial",
-    "peso": 2775.0,
+    "peso": 2775,
     "comissaoValor": 140.22
   },
   {
     "id": 126,
     "data": "2026-05-11",
     "pedido": 455102,
-    "valor": 86481.0,
+    "valor": 86481,
     "comissaoPct": 0.0075,
     "nf": 395867,
     "empresa": "HCI Hidraulica Conexoes Industriais",
-    "peso": 11025.0,
+    "peso": 11025,
     "comissaoValor": 648.61
   },
   {
@@ -1393,7 +1393,7 @@
     "comissaoPct": 0.0075,
     "nf": 395874,
     "empresa": "VMP Industrial Ltda",
-    "peso": 4750.0,
+    "peso": 4750,
     "comissaoValor": 255.21
   },
   {
@@ -1404,7 +1404,7 @@
     "comissaoPct": 0.0075,
     "nf": 395923,
     "empresa": "Perfilaço (BA)",
-    "peso": 6590.0,
+    "peso": 6590,
     "comissaoValor": 370.13
   },
   {
@@ -1415,7 +1415,7 @@
     "comissaoPct": 0.0075,
     "nf": 396006,
     "empresa": "Poleoduto Indústria e Comércio de Eletro-Mecênicos Ltda",
-    "peso": 230.0,
+    "peso": 230,
     "comissaoValor": 13.36
   },
   {
@@ -1426,7 +1426,7 @@
     "comissaoPct": 0.0075,
     "nf": 396113,
     "empresa": "Pipeline Engenharia e Serviços Ltda",
-    "peso": 1831.0,
+    "peso": 1831,
     "comissaoValor": 104.64
   },
   {
@@ -1437,7 +1437,7 @@
     "comissaoPct": 0.0075,
     "nf": 396080,
     "empresa": "HeatMec Industria Metalurgica",
-    "peso": 2235.0,
+    "peso": 2235,
     "comissaoValor": 112.5
   },
   {
@@ -1448,7 +1448,7 @@
     "comissaoPct": 0.0075,
     "nf": 396137,
     "empresa": "Latasa Metais Ltda",
-    "peso": 1620.0,
+    "peso": 1620,
     "comissaoValor": 90.2
   },
   {
@@ -1459,7 +1459,7 @@
     "comissaoPct": 0.0075,
     "nf": 396138,
     "empresa": "Latasa Metais Ltda",
-    "peso": 360.0,
+    "peso": 360,
     "comissaoValor": 22.51
   },
   {
@@ -1470,18 +1470,18 @@
     "comissaoPct": 0.0075,
     "nf": 396156,
     "empresa": "Heating Cooling Tecnologia",
-    "peso": 1230.0,
+    "peso": 1230,
     "comissaoValor": 61.91
   },
   {
     "id": 135,
     "data": "2026-05-15",
     "pedido": 455498,
-    "valor": 34229.0,
+    "valor": 34229,
     "comissaoPct": 0.0075,
     "nf": 396266,
     "empresa": "MZ Fluid Projetos e Equipamentos",
-    "peso": 5070.0,
+    "peso": 5070,
     "comissaoValor": 256.72
   },
   {
@@ -1492,7 +1492,7 @@
     "comissaoPct": 0.0075,
     "nf": 396296,
     "empresa": "Latasa Industria e Comercio de Metais",
-    "peso": 2919.0,
+    "peso": 2919,
     "comissaoValor": 166.27
   },
   {
@@ -1503,7 +1503,7 @@
     "comissaoPct": 0.0075,
     "nf": 396434,
     "empresa": "Diamante Geração de Energia Ltda",
-    "peso": 1868.0,
+    "peso": 1868,
     "comissaoValor": 122.96
   },
   {
@@ -1514,18 +1514,18 @@
     "comissaoPct": 0.0075,
     "nf": 396501,
     "empresa": "Diffusa Metalurgica",
-    "peso": 1750.0,
+    "peso": 1750,
     "comissaoValor": 91.38
   },
   {
     "id": 139,
     "data": "2026-05-19",
     "pedido": 455588,
-    "valor": 20711.0,
+    "valor": 20711,
     "comissaoPct": 0.0075,
     "nf": 396508,
     "empresa": "Heating Cooling Tecnologia",
-    "peso": 2980.0,
+    "peso": 2980,
     "comissaoValor": 155.33
   },
   {
@@ -1536,7 +1536,7 @@
     "comissaoPct": 0.0075,
     "nf": 396502,
     "empresa": "Diffusa Metalurgica",
-    "peso": 280.0,
+    "peso": 280,
     "comissaoValor": 16.48
   },
   {
@@ -1547,7 +1547,7 @@
     "comissaoPct": 0.0075,
     "nf": 396503,
     "empresa": "Diffusa Metalurgica",
-    "peso": 1305.0,
+    "peso": 1305,
     "comissaoValor": 69.73
   },
   {
@@ -1558,7 +1558,7 @@
     "comissaoPct": 0.0075,
     "nf": 396502,
     "empresa": "Diffusa Metalurgica",
-    "peso": 280.0,
+    "peso": 280,
     "comissaoValor": 16.48
   },
   {
@@ -1569,18 +1569,18 @@
     "comissaoPct": 0.0075,
     "nf": 396503,
     "empresa": "Diffusa Metalurgica",
-    "peso": 1305.0,
+    "peso": 1305,
     "comissaoValor": 69.73
   },
   {
     "id": 144,
     "data": "2026-05-20",
     "pedido": 455755,
-    "valor": 1450.0,
+    "valor": 1450,
     "comissaoPct": 0.0075,
     "nf": 396592,
     "empresa": "Latasa Metais Ltda",
-    "peso": 245.0,
+    "peso": 245,
     "comissaoValor": 10.88
   },
   {
@@ -1591,7 +1591,7 @@
     "comissaoPct": 0.0075,
     "nf": 396593,
     "empresa": "Latasa Metais Ltda",
-    "peso": 441.0,
+    "peso": 441,
     "comissaoValor": 35.57
   },
   {
@@ -1602,7 +1602,7 @@
     "comissaoPct": 0.0075,
     "nf": 396590,
     "empresa": "Latasa Metais Ltda",
-    "peso": 680.0,
+    "peso": 680,
     "comissaoValor": 33.69
   },
   {
@@ -1613,7 +1613,7 @@
     "comissaoPct": 0.0075,
     "nf": 396618,
     "empresa": "VMP Industrial Ltda",
-    "peso": 390.0,
+    "peso": 390,
     "comissaoValor": 21.44
   },
   {
@@ -1624,7 +1624,7 @@
     "comissaoPct": 0.0075,
     "nf": 396798,
     "empresa": "Metal Aços",
-    "peso": 580.0,
+    "peso": 580,
     "comissaoValor": 32.48
   },
   {
@@ -1635,7 +1635,7 @@
     "comissaoPct": 0.0075,
     "nf": 396843,
     "empresa": "ControlFlex Ind Cabos",
-    "peso": 1245.0,
+    "peso": 1245,
     "comissaoValor": 91.63
   },
   {
@@ -1646,7 +1646,7 @@
     "comissaoPct": 0.0075,
     "nf": 397026,
     "empresa": "Pipeline Engenharia e Serviços Ltda",
-    "peso": 2060.0,
+    "peso": 2060,
     "comissaoValor": 124.04
   },
   {
@@ -1657,7 +1657,7 @@
     "comissaoPct": 0.0075,
     "nf": 397143,
     "empresa": "Ethic Metalurgica Ltda",
-    "peso": 1680.0,
+    "peso": 1680,
     "comissaoValor": 87.12
   },
   {
@@ -1668,7 +1668,7 @@
     "comissaoPct": 0.0075,
     "nf": 397091,
     "empresa": "Diffusa Metalurgica",
-    "peso": 2110.0,
+    "peso": 2110,
     "comissaoValor": 107.84
   },
   {
@@ -1679,18 +1679,18 @@
     "comissaoPct": 0.0075,
     "nf": 397267,
     "empresa": "Heating Cooling Tecnologia",
-    "peso": 1090.0,
+    "peso": 1090,
     "comissaoValor": 58.55
   },
   {
     "id": 154,
     "data": "2026-06-01",
     "pedido": 456414,
-    "valor": 1251.0,
+    "valor": 1251,
     "comissaoPct": 0.0075,
     "nf": 397268,
     "empresa": "Heating Cooling Tecnologia",
-    "peso": 180.0,
+    "peso": 180,
     "comissaoValor": 9.38
   },
   {
@@ -1701,7 +1701,7 @@
     "comissaoPct": 0.0075,
     "nf": 397355,
     "empresa": "Heating Cooling Tecnologia",
-    "peso": 1670.0,
+    "peso": 1670,
     "comissaoValor": 84.06
   },
   {
@@ -1712,7 +1712,7 @@
     "comissaoPct": 0.0075,
     "nf": 397356,
     "empresa": "Heating Cooling Tecnologia",
-    "peso": 2280.0,
+    "peso": 2280,
     "comissaoValor": 114.76
   },
   {
@@ -1723,7 +1723,18 @@
     "comissaoPct": 0.0075,
     "nf": 397358,
     "empresa": "Heating Cooling Tecnologia",
-    "peso": 1015.0,
+    "peso": 1015,
     "comissaoValor": 52.91
+  },
+  {
+    "id": 158,
+    "data": "2026-06-10",
+    "empresa": "teste",
+    "pedido": 12345,
+    "nf": 45612,
+    "valor": 50000,
+    "peso": 5000,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 375
   }
 ]
