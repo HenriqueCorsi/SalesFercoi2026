@@ -376,12 +376,12 @@
   {
     "id": 35,
     "data": "2026-02-18",
-    "pedido": 450043,
-    "valor": 17298.85,
-    "comissaoPct": 0.0075,
-    "nf": 391025,
     "empresa": "HCI Hidraulica Conexoes Industriais (Caldeiraria)",
+    "pedido": 450043,
+    "nf": 391025,
+    "valor": 17298.85,
     "peso": 2385,
+    "comissaoPct": 0.0075,
     "comissaoValor": 129.74
   },
   {
@@ -1124,12 +1124,12 @@
   {
     "id": 103,
     "data": "2026-04-15",
+    "empresa": "HCI Hidraulica Conexoes Industriais (Caldeiraria)",
     "pedido": 453127,
-    "valor": 3729.39,
-    "comissaoPct": 0.0075,
     "nf": 394594,
-    "empresa": "HCI Hidraulica Conexoes Industriais",
+    "valor": 3729.39,
     "peso": 430,
+    "comissaoPct": 0.0075,
     "comissaoValor": 27.97
   },
   {
@@ -1377,12 +1377,12 @@
   {
     "id": 126,
     "data": "2026-05-11",
+    "empresa": "HCI Hidraulica Conexoes Industriais (Caldeiraria)",
     "pedido": 455102,
-    "valor": 86481,
-    "comissaoPct": 0.0075,
     "nf": 395867,
-    "empresa": "HCI Hidraulica Conexoes Industriais",
+    "valor": 86481,
     "peso": 11025,
+    "comissaoPct": 0.0075,
     "comissaoValor": 648.61
   },
   {
