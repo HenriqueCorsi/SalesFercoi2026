@@ -1945,5 +1945,16 @@
     "peso": 1420,
     "comissaoPct": 0.0075,
     "comissaoValor": 75.87
+  },
+  {
+    "id": 179,
+    "data": "2026-06-12",
+    "empresa": "Aste Assistencia Tecnica Especializada",
+    "pedido": 457258,
+    "nf": 397975,
+    "valor": 14647.66,
+    "peso": 1510,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 109.86
   }
 ]
