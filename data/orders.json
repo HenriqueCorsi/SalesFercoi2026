@@ -2000,5 +2000,27 @@
     "peso": 21300,
     "comissaoPct": 0.0075,
     "comissaoValor": 1302.71
+  },
+  {
+    "id": 184,
+    "data": "2026-06-26",
+    "empresa": "DTC Caldeiras",
+    "pedido": 458122,
+    "nf": 398790,
+    "valor": 32792.2,
+    "peso": 3970,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 245.94
+  },
+  {
+    "id": 185,
+    "data": "2026-06-26",
+    "empresa": "Costafer Caldeiraria e Manutenção de Maquinas",
+    "pedido": 457979,
+    "nf": 398682,
+    "valor": 13792.17,
+    "peso": 1835,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 103.44
   }
 ]
