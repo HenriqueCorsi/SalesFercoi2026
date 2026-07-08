@@ -2099,5 +2099,16 @@
     "peso": 4055,
     "comissaoPct": 0.0075,
     "comissaoValor": 211.07
+  },
+  {
+    "id": 193,
+    "data": "2026-07-06",
+    "empresa": "ControlFlex Ind Cabos",
+    "pedido": 458603,
+    "nf": 399422,
+    "valor": 10405.95,
+    "peso": 1048,
+    "comissaoPct": 0.015,
+    "comissaoValor": 156.09
   }
 ]
