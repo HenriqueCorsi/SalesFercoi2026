@@ -2176,5 +2176,16 @@
     "peso": 780,
     "comissaoPct": 0.0075,
     "comissaoValor": 39.26
+  },
+  {
+    "id": 200,
+    "data": "2026-07-08",
+    "empresa": "HCI Hidraulica Conexoes Industriais (Caldeiraria)",
+    "pedido": 458853,
+    "nf": 399638,
+    "valor": 4948.4,
+    "peso": 712,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 37.11
   }
 ]
