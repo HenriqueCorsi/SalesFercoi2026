@@ -2253,5 +2253,38 @@
     "peso": 480,
     "comissaoPct": 0.0075,
     "comissaoValor": 24.16
+  },
+  {
+    "id": 207,
+    "data": "2026-07-10",
+    "empresa": "Latasa Industria e Comercio de Metais",
+    "pedido": 459020,
+    "nf": 399665,
+    "valor": 138262.39,
+    "peso": 18640,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 1036.97
+  },
+  {
+    "id": 208,
+    "data": "2026-07-10",
+    "empresa": "Latasa Industria e Comercio de Metais",
+    "pedido": 459022,
+    "nf": 399667,
+    "valor": 70196.59,
+    "peso": 9440,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 526.47
+  },
+  {
+    "id": 209,
+    "data": "2026-07-10",
+    "empresa": "Rezende e Carvalho Construções Ltda",
+    "pedido": 458948,
+    "nf": 399688,
+    "valor": 73174.61,
+    "peso": 10810,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 548.81
   }
 ]
