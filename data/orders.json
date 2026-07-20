@@ -2308,5 +2308,38 @@
     "peso": 2490,
     "comissaoPct": 0.0075,
     "comissaoValor": 133.05
+  },
+  {
+    "id": 212,
+    "data": "2026-07-17",
+    "empresa": "Aços America Latina",
+    "pedido": 459460,
+    "nf": 400179,
+    "valor": 7302.5,
+    "peso": 870,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 54.77
+  },
+  {
+    "id": 213,
+    "data": "2026-07-16",
+    "empresa": "Poleoduto Indústria e Comércio de Eletro-Mecênicos Ltda",
+    "pedido": 459370,
+    "nf": 400040,
+    "valor": 15663.45,
+    "peso": 1815,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 117.48
+  },
+  {
+    "id": 214,
+    "data": "2026-07-16",
+    "empresa": "Poleoduto Indústria e Comércio de Eletro-Mecênicos Ltda",
+    "pedido": 459370,
+    "nf": 400040,
+    "valor": 15663.45,
+    "peso": 1815,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 117.48
   }
 ]
