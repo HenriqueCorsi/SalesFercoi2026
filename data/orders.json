@@ -2286,5 +2286,27 @@
     "peso": 10810,
     "comissaoPct": 0.0075,
     "comissaoValor": 548.81
+  },
+  {
+    "id": 210,
+    "data": "2026-07-20",
+    "empresa": "Diffusa Metalurgica",
+    "pedido": 459158,
+    "nf": 400099,
+    "valor": 4844.49,
+    "peso": 680,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 36.33
+  },
+  {
+    "id": 211,
+    "data": "2026-07-20",
+    "empresa": "Diffusa Metalurgica",
+    "pedido": 459282,
+    "nf": 400100,
+    "valor": 17739.38,
+    "peso": 2490,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 133.05
   }
 ]
