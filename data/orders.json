@@ -2374,5 +2374,38 @@
     "peso": 9080,
     "comissaoPct": 0.0075,
     "comissaoValor": 471.67
+  },
+  {
+    "id": 219,
+    "data": "2026-07-22",
+    "empresa": "Ethic Metalurgica Ltda",
+    "pedido": 458548,
+    "nf": 400408,
+    "valor": 26067.7,
+    "peso": 3785,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 195.51
+  },
+  {
+    "id": 220,
+    "data": "2026-07-22",
+    "empresa": "Ethic Metalurgica Ltda",
+    "pedido": 459701,
+    "nf": 400413,
+    "valor": 2791.25,
+    "peso": 385,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 20.93
+  },
+  {
+    "id": 221,
+    "data": "2026-07-22",
+    "empresa": "Ethic Metalurgica Ltda",
+    "pedido": 459863,
+    "nf": 400542,
+    "valor": 2641,
+    "peso": 380,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 19.81
   }
 ]
