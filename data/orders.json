@@ -2451,5 +2451,93 @@
     "peso": 5860,
     "comissaoPct": 0.0075,
     "comissaoValor": 346.33
+  },
+  {
+    "id": 226,
+    "data": "2026-07-27",
+    "empresa": "HCI Hidraulica Conexoes Industriais",
+    "pedido": 460040,
+    "nf": 400686,
+    "valor": 6042.36,
+    "peso": 1840,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 45.32
+  },
+  {
+    "id": 227,
+    "data": "2026-07-28",
+    "empresa": "HCI Hidraulica Conexoes Industriais",
+    "pedido": 460042,
+    "nf": 400811,
+    "valor": 107397.94,
+    "peso": 17015,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 805.48
+  },
+  {
+    "id": 228,
+    "data": "2026-07-28",
+    "empresa": "HCI Hidraulica Conexoes Industriais",
+    "pedido": 460045,
+    "nf": 400812,
+    "valor": 88167.85,
+    "peso": 13537,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 661.26
+  },
+  {
+    "id": 229,
+    "data": "2026-07-31",
+    "empresa": "HCI Hidraulica Conexoes Industriais",
+    "pedido": 460044,
+    "nf": 400926,
+    "valor": 112774.64,
+    "peso": 18130,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 845.81
+  },
+  {
+    "id": 230,
+    "data": "2026-07-29",
+    "empresa": "HCI Hidraulica Conexoes Industriais",
+    "pedido": 460046,
+    "nf": 400927,
+    "valor": 96869.7,
+    "peso": 13494,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 726.52
+  },
+  {
+    "id": 231,
+    "data": "2026-07-31",
+    "empresa": "HCI Hidraulica Conexoes Industriais",
+    "pedido": 460042,
+    "nf": 400992,
+    "valor": 149177.23,
+    "peso": 22661,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 1118.83
+  },
+  {
+    "id": 232,
+    "data": "2026-07-31",
+    "empresa": "HCI Hidraulica Conexoes Industriais",
+    "pedido": 460045,
+    "nf": 400993,
+    "valor": 14996.4,
+    "peso": 2345,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 112.47
+  },
+  {
+    "id": 233,
+    "data": "2026-07-31",
+    "empresa": "HCI Hidraulica Conexoes Industriais",
+    "pedido": 460047,
+    "nf": 400994,
+    "valor": 2711.46,
+    "peso": 304,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 20.34
   }
 ]
