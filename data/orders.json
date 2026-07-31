@@ -2539,5 +2539,16 @@
     "peso": 304,
     "comissaoPct": 0.0075,
     "comissaoValor": 20.34
+  },
+  {
+    "id": 234,
+    "data": "2026-07-31",
+    "empresa": "HCI Hidraulica Conexoes Industriais",
+    "pedido": 460048,
+    "nf": 400995,
+    "valor": 9869.75,
+    "peso": 1575,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 74.02
   }
 ]
