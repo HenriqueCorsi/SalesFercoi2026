@@ -2594,5 +2594,16 @@
     "peso": 340,
     "comissaoPct": 0.0075,
     "comissaoValor": 18.17
+  },
+  {
+    "id": 239,
+    "data": "2026-08-05",
+    "empresa": "Recivale Industria e Comercio",
+    "pedido": 460665,
+    "nf": 401335,
+    "valor": 101138.99,
+    "peso": 15540,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 758.54
   }
 ]
