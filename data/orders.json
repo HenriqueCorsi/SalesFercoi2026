@@ -2726,5 +2726,16 @@
     "peso": 2750,
     "comissaoPct": 0.0075,
     "comissaoValor": 146.94
+  },
+  {
+    "id": 251,
+    "data": "2026-08-20",
+    "empresa": "Aços America Latina",
+    "pedido": 461980,
+    "nf": 402501,
+    "valor": 15428,
+    "peso": 2030,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 115.71
   }
 ]
