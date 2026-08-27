@@ -2803,5 +2803,27 @@
     "peso": 54,
     "comissaoPct": 0.0075,
     "comissaoValor": 2.75
+  },
+  {
+    "id": 258,
+    "data": "2026-08-25",
+    "empresa": "Adelco Sistemas de Energeia Ltda",
+    "pedido": 462307,
+    "nf": 402801,
+    "valor": 11327.56,
+    "peso": 1380,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 84.96
+  },
+  {
+    "id": 259,
+    "data": "2026-08-26",
+    "empresa": "Labor Equipamentos Rodoviários Ltda",
+    "pedido": 462281,
+    "nf": 402851,
+    "valor": 51095.43,
+    "peso": 7455,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 383.22
   }
 ]
