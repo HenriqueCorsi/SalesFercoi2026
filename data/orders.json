@@ -2825,5 +2825,27 @@
     "peso": 7455,
     "comissaoPct": 0.0075,
     "comissaoValor": 383.22
+  },
+  {
+    "id": 260,
+    "data": "2026-08-07",
+    "empresa": "BPC Automação Comercio e Industria",
+    "pedido": 462385,
+    "nf": 402941,
+    "valor": 22401.74,
+    "peso": 2728,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 168.01
+  },
+  {
+    "id": 261,
+    "data": "2026-08-28",
+    "empresa": "BPC Automação Comercio e Industria",
+    "pedido": 462400,
+    "nf": 403030,
+    "valor": 63077.69,
+    "peso": 9209,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 473.08
   }
 ]
