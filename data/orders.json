@@ -2891,5 +2891,27 @@
     "peso": 1185,
     "comissaoPct": 0.0075,
     "comissaoValor": 62.21
+  },
+  {
+    "id": 266,
+    "data": "2026-08-28",
+    "empresa": "Cadeiras Gennaro Ferrante Ltda",
+    "pedido": 462589,
+    "nf": 403081,
+    "valor": 5165,
+    "peso": 725,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 38.74
+  },
+  {
+    "id": 267,
+    "data": "2026-08-28",
+    "empresa": "HCI Hidraulica Conexoes Industriais (Caldeiraria)",
+    "pedido": 462415,
+    "nf": 403085,
+    "valor": 14593.5,
+    "peso": 2070,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 109.45
   }
 ]
