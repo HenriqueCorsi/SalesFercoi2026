@@ -2990,5 +2990,16 @@
     "peso": 990,
     "comissaoPct": 0.0075,
     "comissaoValor": 58.58
+  },
+  {
+    "id": 276,
+    "data": "2026-09-09",
+    "empresa": "Latasa Metais Ltda",
+    "pedido": 463182,
+    "nf": 403675,
+    "valor": 4300,
+    "peso": 595,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 32.25
   }
 ]
