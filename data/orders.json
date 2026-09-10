@@ -2935,5 +2935,49 @@
     "peso": 260,
     "comissaoPct": 0.0075,
     "comissaoValor": 15.7
+  },
+  {
+    "id": 270,
+    "data": "2026-09-01",
+    "empresa": "ControlFlex Ind Cabos",
+    "pedido": 462705,
+    "nf": 403254,
+    "valor": 1439.31,
+    "peso": 170,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 10.79
+  },
+  {
+    "id": 271,
+    "data": "2026-09-01",
+    "empresa": "Codex Engenharia Ltda",
+    "pedido": 462806,
+    "nf": 403256,
+    "valor": 3855.15,
+    "peso": 381,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 28.91
+  },
+  {
+    "id": 272,
+    "data": "2026-09-01",
+    "empresa": "Codex Engenharia Ltda",
+    "pedido": 462806,
+    "nf": 403256,
+    "valor": 3855.15,
+    "peso": 381,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 28.91
+  },
+  {
+    "id": 273,
+    "data": "2026-09-04",
+    "empresa": "Cadeiras Gennaro Ferrante Ltda",
+    "pedido": 463135,
+    "nf": 403502,
+    "valor": 3989.58,
+    "peso": 560,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 29.92
   }
 ]
