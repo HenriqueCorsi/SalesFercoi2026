@@ -2948,17 +2948,6 @@
     "comissaoValor": 10.79
   },
   {
-    "id": 271,
-    "data": "2026-09-01",
-    "empresa": "Codex Engenharia Ltda",
-    "pedido": 462806,
-    "nf": 403256,
-    "valor": 3855.15,
-    "peso": 381,
-    "comissaoPct": 0.0075,
-    "comissaoValor": 28.91
-  },
-  {
     "id": 272,
     "data": "2026-09-01",
     "empresa": "Codex Engenharia Ltda",
