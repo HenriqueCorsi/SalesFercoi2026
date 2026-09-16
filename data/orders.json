@@ -3012,5 +3012,16 @@
     "peso": 3380,
     "comissaoPct": 0.0075,
     "comissaoValor": 183.9
+  },
+  {
+    "id": 278,
+    "data": "2026-09-15",
+    "empresa": "Heating Cooling Tecnologia",
+    "pedido": 463621,
+    "nf": 404012,
+    "valor": 6409.24,
+    "peso": 955,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 48.07
   }
 ]
