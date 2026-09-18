@@ -3045,5 +3045,16 @@
     "peso": 2715,
     "comissaoPct": 0.0075,
     "comissaoValor": 145.07
+  },
+  {
+    "id": 281,
+    "data": "2026-09-15",
+    "empresa": "Manzoni Industrial",
+    "pedido": 463781,
+    "nf": 404101,
+    "valor": 5672.26,
+    "peso": 670,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 42.54
   }
 ]
