@@ -3056,5 +3056,16 @@
     "peso": 670,
     "comissaoPct": 0.0075,
     "comissaoValor": 42.54
+  },
+  {
+    "id": 282,
+    "data": "2026-09-17",
+    "empresa": "Gradetec Industrial LTDA",
+    "pedido": 463841,
+    "nf": 404201,
+    "valor": 55275,
+    "peso": 8375,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 414.56
   }
 ]
