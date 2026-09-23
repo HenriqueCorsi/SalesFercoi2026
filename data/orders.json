@@ -3122,5 +3122,16 @@
     "peso": 735,
     "comissaoPct": 0.0075,
     "comissaoValor": 36.99
+  },
+  {
+    "id": 288,
+    "data": "2026-09-18",
+    "empresa": "HeatMec Industria Metalurgica",
+    "pedido": 464083,
+    "nf": 404341,
+    "valor": 6634.85,
+    "peso": 1020,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 49.76
   }
 ]
