@@ -3067,5 +3067,60 @@
     "peso": 8375,
     "comissaoPct": 0.0075,
     "comissaoValor": 414.56
+  },
+  {
+    "id": 283,
+    "data": "2026-09-22",
+    "empresa": "Ethic Metalurgica Ltda",
+    "pedido": 463879,
+    "nf": 404582,
+    "valor": 18314.5,
+    "peso": 2700,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 137.36
+  },
+  {
+    "id": 284,
+    "data": "2026-09-22",
+    "empresa": "Diffusa Metalurgica",
+    "pedido": 463935,
+    "nf": 404575,
+    "valor": 33050.32,
+    "peso": null,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 247.88
+  },
+  {
+    "id": 285,
+    "data": "2026-09-22",
+    "empresa": "Heating Cooling Tecnologia",
+    "pedido": 464141,
+    "nf": 404595,
+    "valor": 4026.75,
+    "peso": 600,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 30.2
+  },
+  {
+    "id": 286,
+    "data": "2026-09-22",
+    "empresa": "Heating Cooling Tecnologia",
+    "pedido": 464144,
+    "nf": 404596,
+    "valor": 6711.25,
+    "peso": 1000,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 50.33
+  },
+  {
+    "id": 287,
+    "data": "2026-09-22",
+    "empresa": "Heating Cooling Tecnologia",
+    "pedido": 464164,
+    "nf": 404597,
+    "valor": 4932.17,
+    "peso": 735,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 36.99
   }
 ]
