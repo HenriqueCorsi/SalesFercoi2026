@@ -3221,5 +3221,16 @@
     "peso": 1215,
     "comissaoPct": 0.0075,
     "comissaoValor": 69.78
+  },
+  {
+    "id": 297,
+    "data": "2026-09-30",
+    "empresa": "Costafer Caldeiraria e Manutenção de Maquinas",
+    "pedido": 464882,
+    "nf": 405209,
+    "valor": 31531,
+    "peso": 4441,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 236.48
   }
 ]
