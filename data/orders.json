@@ -3166,5 +3166,27 @@
     "peso": 870,
     "comissaoPct": 0.0075,
     "comissaoValor": 43.79
+  },
+  {
+    "id": 292,
+    "data": "2026-09-29",
+    "empresa": "Adelco Sistemas de Energeia Ltda",
+    "pedido": 464626,
+    "nf": 404983,
+    "valor": 10547.77,
+    "peso": 1285,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 79.11
+  },
+  {
+    "id": 293,
+    "data": "2026-09-29",
+    "empresa": "Adelco Sistemas de Energeia Ltda",
+    "pedido": 405082,
+    "nf": 464798,
+    "valor": 3570.64,
+    "peso": 435,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 26.78
   }
 ]
