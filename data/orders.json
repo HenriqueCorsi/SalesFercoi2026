@@ -3210,5 +3210,16 @@
     "peso": 1090,
     "comissaoPct": 0.0075,
     "comissaoValor": 58.24
+  },
+  {
+    "id": 296,
+    "data": "2026-09-28",
+    "empresa": "Rezende e Carvalho Construções Ltda",
+    "pedido": 464763,
+    "nf": 405037,
+    "valor": 9304.11,
+    "peso": 1215,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 69.78
   }
 ]
