@@ -3243,5 +3243,16 @@
     "peso": 1125,
     "comissaoPct": 0.015,
     "comissaoValor": 165.36
+  },
+  {
+    "id": 299,
+    "data": "2026-10-02",
+    "empresa": "Metalurgica Cofelma",
+    "pedido": 465184,
+    "nf": 405395,
+    "valor": 7263.64,
+    "peso": 1050,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 54.48
   }
 ]
