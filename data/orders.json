@@ -3320,5 +3320,16 @@
     "peso": 1295,
     "comissaoPct": 0.0075,
     "comissaoValor": 82.56
+  },
+  {
+    "id": 306,
+    "data": "2026-10-07",
+    "empresa": "Perfilaço (BA)",
+    "pedido": 465467,
+    "nf": 405755,
+    "valor": 119331.4,
+    "peso": 15551,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 894.99
   }
 ]
