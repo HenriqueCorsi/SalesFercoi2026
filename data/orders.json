@@ -3331,5 +3331,16 @@
     "peso": 15551,
     "comissaoPct": 0.0075,
     "comissaoValor": 894.99
+  },
+  {
+    "id": 307,
+    "data": "2026-10-13",
+    "empresa": "Pedreira DoValle Ltda",
+    "pedido": 465724,
+    "nf": 405923,
+    "valor": 28401.69,
+    "peso": 3785,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 213.01
   }
 ]
