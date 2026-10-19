@@ -3353,5 +3353,16 @@
     "peso": 1600,
     "comissaoPct": 0.0075,
     "comissaoValor": 86.61
+  },
+  {
+    "id": 309,
+    "data": "2026-10-16",
+    "empresa": "Labor Equipamentos Rodoviários Ltda",
+    "pedido": 465953,
+    "nf": 406190,
+    "valor": 52122.67,
+    "peso": 6365,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 390.92
   }
 ]
