@@ -3364,5 +3364,49 @@
     "peso": 6365,
     "comissaoPct": 0.0075,
     "comissaoValor": 390.92
+  },
+  {
+    "id": 310,
+    "data": "2026-10-19",
+    "empresa": "Lindsay America do Sul",
+    "pedido": 466206,
+    "nf": 406354,
+    "valor": 11309.75,
+    "peso": 1495,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 84.82
+  },
+  {
+    "id": 311,
+    "data": "2026-10-21",
+    "empresa": "Diffusa Metalurgica",
+    "pedido": 465888,
+    "nf": 406537,
+    "valor": 6677.69,
+    "peso": 995,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 50.08
+  },
+  {
+    "id": 312,
+    "data": "2026-10-21",
+    "empresa": "Heating Cooling Tecnologia",
+    "pedido": 460722,
+    "nf": 406593,
+    "valor": 51140.96,
+    "peso": 8160,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 383.56
+  },
+  {
+    "id": 313,
+    "data": "2026-10-22",
+    "empresa": "Perfilaço (BA)",
+    "pedido": 465877,
+    "nf": 406695,
+    "valor": 78425.85,
+    "peso": 10205,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 588.19
   }
 ]
