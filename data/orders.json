@@ -3419,5 +3419,27 @@
     "peso": 3065,
     "comissaoPct": 0.0075,
     "comissaoValor": 179.3
+  },
+  {
+    "id": 315,
+    "data": "2026-10-22",
+    "empresa": "Perfilaço (BA)",
+    "pedido": 466164,
+    "nf": 406699,
+    "valor": 11061.75,
+    "peso": 1505,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 82.96
+  },
+  {
+    "id": 316,
+    "data": "2026-10-22",
+    "empresa": "Heating Cooling Tecnologia",
+    "pedido": 460722,
+    "nf": 406753,
+    "valor": 223727,
+    "peso": 31965,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 1677.95
   }
 ]
