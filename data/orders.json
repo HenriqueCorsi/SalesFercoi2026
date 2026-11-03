@@ -3474,5 +3474,49 @@
     "peso": 4815,
     "comissaoPct": 0.0075,
     "comissaoValor": 265.43
+  },
+  {
+    "id": 320,
+    "data": "2026-10-28",
+    "empresa": "Heating Cooling Tecnologia",
+    "pedido": 466701,
+    "nf": 707029,
+    "valor": 12395.16,
+    "peso": 1665,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 92.96
+  },
+  {
+    "id": 321,
+    "data": "2026-10-29",
+    "empresa": "HCI Hidraulica Conexoes Industriais",
+    "pedido": 466442,
+    "nf": 407092,
+    "valor": 41207.73,
+    "peso": 6935,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 309.06
+  },
+  {
+    "id": 322,
+    "data": "2026-10-29",
+    "empresa": "HCI Hidraulica Conexoes Industriais",
+    "pedido": 407093,
+    "nf": 46644,
+    "valor": 88157.67,
+    "peso": 13936,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 661.18
+  },
+  {
+    "id": 323,
+    "data": "2026-10-29",
+    "empresa": "407094",
+    "pedido": 466451,
+    "nf": 407094,
+    "valor": 59638.85,
+    "peso": 9370,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 447.29
   }
 ]
