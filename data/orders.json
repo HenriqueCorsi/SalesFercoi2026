@@ -3540,5 +3540,16 @@
     "peso": 2997,
     "comissaoPct": 0.0075,
     "comissaoValor": 174.5
+  },
+  {
+    "id": 326,
+    "data": "2026-10-29",
+    "empresa": "Lindsay America do Sul",
+    "pedido": 465886,
+    "nf": 407114,
+    "valor": 71491.85,
+    "peso": 9290,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 536.19
   }
 ]
