@@ -3606,5 +3606,49 @@
     "peso": 1510,
     "comissaoPct": 0.0075,
     "comissaoValor": 96.75
+  },
+  {
+    "id": 332,
+    "data": "2026-11-03",
+    "empresa": "Lindsay America do Sul",
+    "pedido": 465886,
+    "nf": 407309,
+    "valor": 65032.01,
+    "peso": 8550,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 487.74
+  },
+  {
+    "id": 333,
+    "data": "2026-11-03",
+    "empresa": "Lindsay America do Sul",
+    "pedido": 465886,
+    "nf": 407316,
+    "valor": 7053.01,
+    "peso": 970,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 52.9
+  },
+  {
+    "id": 334,
+    "data": "2026-11-04",
+    "empresa": "Ethic Metalurgica Ltda",
+    "pedido": 463879,
+    "nf": 407369,
+    "valor": 15108.5,
+    "peso": 2255,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 113.31
+  },
+  {
+    "id": 335,
+    "data": "2026-11-04",
+    "empresa": "Ethic Metalurgica Ltda",
+    "pedido": 466098,
+    "nf": 407370,
+    "valor": 35946.4,
+    "peso": 5165,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 269.6
   }
 ]
