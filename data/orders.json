@@ -3650,5 +3650,16 @@
     "peso": 5165,
     "comissaoPct": 0.0075,
     "comissaoValor": 269.6
+  },
+  {
+    "id": 336,
+    "data": "2026-11-06",
+    "empresa": "Diamante Geração de Energia Ltda",
+    "pedido": 467194,
+    "nf": 407601,
+    "valor": 20292.76,
+    "peso": 3170,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 152.2
   }
 ]
