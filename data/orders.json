@@ -3661,5 +3661,16 @@
     "peso": 3170,
     "comissaoPct": 0.0075,
     "comissaoValor": 152.2
+  },
+  {
+    "id": 337,
+    "data": "2026-11-09",
+    "empresa": "Latasa Industria e Comercio de Metais",
+    "pedido": 467535,
+    "nf": 407684,
+    "valor": 20849.84,
+    "peso": 2600,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 156.37
   }
 ]
