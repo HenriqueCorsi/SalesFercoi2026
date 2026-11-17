@@ -3672,5 +3672,38 @@
     "peso": 2600,
     "comissaoPct": 0.0075,
     "comissaoValor": 156.37
+  },
+  {
+    "id": 338,
+    "data": "2026-11-16",
+    "empresa": "Latasa Industria e Comercio de Metais",
+    "pedido": 467590,
+    "nf": 408171,
+    "valor": 34346.49,
+    "peso": 4903,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 257.6
+  },
+  {
+    "id": 339,
+    "data": "2026-11-16",
+    "empresa": "Diffusa Metalurgica",
+    "pedido": 467857,
+    "nf": 408180,
+    "valor": 8181.02,
+    "peso": 1165,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 61.36
+  },
+  {
+    "id": 340,
+    "data": "2026-11-16",
+    "empresa": "Diffusa Metalurgica",
+    "pedido": 467936,
+    "nf": 408181,
+    "valor": 5234.78,
+    "peso": 780,
+    "comissaoPct": 0.0075,
+    "comissaoValor": 39.26
   }
 ]
